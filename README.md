@@ -1,16 +1,24 @@
 # Count-von-Count
 Count-vector-based distributional semantic approaches
 
-todo ah ah ah
+WIP ah ah ah
 
 ![Count von Count from Sesame Street](https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Count_von_Count_kneeling.png/200px-Count_von_Count_kneeling.png)
+
+## Papers:
+
+* [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](https://www.aclweb.org/anthology/P14-1023)
+
+## Code:
+
+todo.
 
 Download some data:
 
 `./download_data.sh`
 
 Count the words!
-`./count.sh data/text8 | head -n 20`
+`./count.sh data/text8 | head -n 10`
 
 ```
 1061396 the
@@ -23,16 +31,10 @@ Count the words!
  264975 zero
  250430 nine
  192644 two
- 183153 is
- 131815 as
- 125285 eight
- 118445 for
- 116710 s
- 115789 five
- 114775 three
- 112807 was
- 111831 by
- 109510 that
 ```
 
 ah ah ah
+
+## Contributing:
+
+All commit messages must end with an `ah ah ah`
